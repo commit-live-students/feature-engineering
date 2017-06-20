@@ -23,7 +23,7 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
-
+* [Feature Engineering](https://github.com/commit-live-students/feature-engineering/blob/master/notebooks/feature_engineering.ipynb)
 
 ## Assignments 
 
